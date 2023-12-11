@@ -8,5 +8,3 @@ export { generateEncryptionKey } from './utils/generateEncryptionKey';
 export { AppManager } from './schemas/app-manager-schema';
 export { CipherKeys } from './schemas/cipher-keys-schema';
 export { CipherManager } from './schemas/cipher-manager-schema';
-
-//teste
